@@ -18,8 +18,7 @@ public class IntList {
     }
 
     public int getSize() {
-        // TODO implement
-        return 0;
+        return arr.length;
     }
 
     @Override
